@@ -1,0 +1,15 @@
+D:\CURSO SONDA C#\C#\ACTIVIDADES\LINQ-Eruption-\bin\Debug\net6.0\LINQ-Eruption-.exe
+D:\CURSO SONDA C#\C#\ACTIVIDADES\LINQ-Eruption-\bin\Debug\net6.0\LINQ-Eruption-.deps.json
+D:\CURSO SONDA C#\C#\ACTIVIDADES\LINQ-Eruption-\bin\Debug\net6.0\LINQ-Eruption-.runtimeconfig.json
+D:\CURSO SONDA C#\C#\ACTIVIDADES\LINQ-Eruption-\bin\Debug\net6.0\LINQ-Eruption-.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\LINQ-Eruption-\bin\Debug\net6.0\LINQ-Eruption-.pdb
+D:\CURSO SONDA C#\C#\ACTIVIDADES\LINQ-Eruption-\obj\Debug\net6.0\LINQ-Eruption-.csproj.AssemblyReference.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\LINQ-Eruption-\obj\Debug\net6.0\LINQ-Eruption-.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO SONDA C#\C#\ACTIVIDADES\LINQ-Eruption-\obj\Debug\net6.0\LINQ-Eruption-.AssemblyInfoInputs.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\LINQ-Eruption-\obj\Debug\net6.0\LINQ-Eruption-.AssemblyInfo.cs
+D:\CURSO SONDA C#\C#\ACTIVIDADES\LINQ-Eruption-\obj\Debug\net6.0\LINQ-Eruption-.csproj.CoreCompileInputs.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\LINQ-Eruption-\obj\Debug\net6.0\LINQ-Eruption-.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\LINQ-Eruption-\obj\Debug\net6.0\refint\LINQ-Eruption-.dll
+D:\CURSO SONDA C#\C#\ACTIVIDADES\LINQ-Eruption-\obj\Debug\net6.0\LINQ-Eruption-.pdb
+D:\CURSO SONDA C#\C#\ACTIVIDADES\LINQ-Eruption-\obj\Debug\net6.0\LINQ-Eruption-.genruntimeconfig.cache
+D:\CURSO SONDA C#\C#\ACTIVIDADES\LINQ-Eruption-\obj\Debug\net6.0\ref\LINQ-Eruption-.dll
